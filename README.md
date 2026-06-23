@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beso-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Beso de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-miel/) |
+| **Get License** | [License this song: Beso de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios tienen sabor a fuego y caramelo
+> Ese beso de miel me lleva directo al cielo
+> Baby, no digas que no, que la noche apenas empieza
+> Y borrar de mi mente tu cuerpo es una proeza
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
