@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Beso de miel
+
+This log tracks the cryptographic history and versioning for the song **Beso de miel** (beso-de-miel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T12:38:19.923850 | `v1` | `63e353306a7d2c4952f47c3ec019a1268730cce42a5a7f131c11660ac7e7de65` | `e7e5433cda4cb18859bfad7d5d77fb64eb26249dfd58e7de53feda322e70250e` | `2026-06-23_beso-de-miel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
